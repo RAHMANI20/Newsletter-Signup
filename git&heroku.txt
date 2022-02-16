@@ -1,0 +1,15 @@
+https://serene-escarpment-95259.herokuapp.com/
+
+git allows us to save all different versions of our app 
+
+heroku login => login to heroku
+
+git init => initialise a brand new git repository
+
+git add . => add all of our files that are in this current repository to our version control
+
+git commit -m "first version" => commit our changes
+
+heroku create => create our server (contaier) at https://serene-esc........  | remote repository git
+
+git push heroku master => push our local version that's been stored using git to heroku

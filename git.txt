@@ -1,7 +1,0 @@
-=> git allows us to save all different versions of our app 
-
-git init => initialise a brand new git repository
-
-git add . => add all of our files that are in this current repository to our version control
-
-git commit -m "first version" => commit our changes
